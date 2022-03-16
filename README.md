@@ -15,6 +15,6 @@ Attributes used are:
 - `DRAFT_NUMBER`
 - `DRAFT_ROUND`
 - `SEASON_EXP`
-- `REB`
-- `AST`
-- `PTS`
+- `REB` (Rebounds)
+- `AST` (Assists)
+- `PTS` (Points scored)
