@@ -2,7 +2,7 @@
 
 ## Description
  This is a personal extension of an academic project, with the goal of 
-predicting the position of basketball players, using their attributes. 
+predicting the position of basketball players using their attributes. 
 
 ## Data
 The dataset is sourced from stats.nba.com via the NBA API, and hosted on Kaggle (https://www.kaggle.com/wyattowalsh/basketball).
